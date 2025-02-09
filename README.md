@@ -28,6 +28,13 @@ Se realizó una evaluación integral del sistema Urban Scooter, incluyendo aplic
   <img src="https://github.com/LeyvaPilar/Urban-Scooter-final-project/blob/main/Pilar-Leyva-Proyecto%20Final.png?raw=true" alt="Mapa mental">
 </a>
 
+
+## Pruebas multinavegador
+
+<a href="https://github.com/LeyvaPilar/Urban-Scooter-final-project/blob/main/Android_emulator.png" target="_blank">
+  <img src="https://github.com/LeyvaPilar/Urban-Scooter-final-project/blob/main/Android_emulator.png?raw=true" alt="Pruebas multinavegador">
+</a>
+
 ## Alcance de Pruebas Realizadas
 
 ### Entornos Evaluados
