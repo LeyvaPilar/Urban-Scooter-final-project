@@ -1,4 +1,4 @@
-# Urban-Scooter-Finalproject
+# Urban-Scooter-Final-project
 
 ## Resumen Ejecutivo
 Se realizó una evaluación integral del sistema Urban Scooter, incluyendo aplicación web y móvil, utilizando diversas técnicas de testing para garantizar la calidad del software. El proyecto abarcó pruebas exhaustivas y documentación detallada de errores.
